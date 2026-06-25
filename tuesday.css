@@ -5,7 +5,7 @@
 }
 
 body{
-    background:#f3e5d8;
+    background:beige;
     font-family:Arial, sans-serif;
     display:flex;
     justify-content:center;
@@ -13,7 +13,7 @@ body{
 }
 
 .container{
-    background:#fff;
+    background:white;
     width:700px;
     max-width:100%;
     padding:35px;
@@ -28,25 +28,25 @@ body{
 
 h1{
     font-size:38px;
-    color:#302d2c;
+    color:black;
     margin-bottom:15px;
 }
 
 .intro{
-    color:#555;
+    color:darkslategray;
     line-height:1.7;
     margin-bottom:25px;
 }
 
 .prep-time{
-    background:#fff5fa;
+    background:white;
     padding:20px;
     border-radius:10px;
     margin-bottom:25px;
 }
 
 .prep-time h3{
-    color:#7b284f;
+    color:purple;
     margin-bottom:10px;
 }
 
@@ -56,7 +56,7 @@ h1{
 }
 
 h2{
-    color:#854632;
+    color:brown;
     margin:20px 0;
 }
 
@@ -64,13 +64,13 @@ section ul,
 section ol{
     margin-left:20px;
     line-height:1.8;
-    color:#555;
+    color:junglegreen;
 }
 
 hr{
     margin:25px 0;
     border:none;
-    border-top:1px solid #ddd;
+    border-top:1px solid gray;
 }
 
 table{
@@ -80,11 +80,11 @@ table{
 
 table td{
     padding:15px 0;
-    border-bottom:1px solid #ddd;
+    border-bottom:1px solid gray;
 }
 
 table td:last-child{
-    color:#854632;
+    color:darkred;
     font-weight:bold;
 }
 
